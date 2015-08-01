@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Shadow
+## Author: x1a0
+## Project: https://github.com/x1a0/shadow
+## SavedVariables: Shadow_Opacity
+
+Shadow.lua
